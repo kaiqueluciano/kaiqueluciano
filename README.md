@@ -2,7 +2,7 @@
 
 meu nome é Kaique Luciano
 
-- estou estudando no alura,
+- estou estudando no [alura](https://www.alura.com.br)
 
 - estou me desenvolvendo bastante na liguagem javaScript
 
@@ -12,5 +12,5 @@ meu nome é Kaique Luciano
 
   00001095969808sp@al.educacao.sp.gov.gov.br
   
-
+![](https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif)
   
